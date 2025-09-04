@@ -13,9 +13,7 @@ public class Main {
             for (int j = n; j > i; j--) {
                 System.out.print("*");
             }
-            if (i != n-1) {
-                System.out.println();
-            }
+            System.out.println();
 
         }
     }
