@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main2{
+public class Main3 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -8,10 +8,13 @@ public class Main2{
         int n = Integer.parseInt(br.readLine());
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i + 1; j++) {
+            for (int j = 0; j < i; j++) {
+                bw.write(" ");
+            }
+            for (int j = 2 * (n - i) - 1; j > 0; j--) {
                 bw.write("*");
             }
-            bw.write("\n");
+            bw.newLine();
         }
         bw.flush();
     }

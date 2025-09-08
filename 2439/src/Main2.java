@@ -7,9 +7,9 @@ public class Main2 {
 
         int n = Integer.parseInt(br.readLine());
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             for (int j = n; j > 0; j--) {
-                if (j <= i) {
+                if (j <= i + 1) {
                     bw.write("*");
                 }
                 else {
@@ -17,8 +17,8 @@ public class Main2 {
                 }
             }
             bw.write("\n");
-            bw.flush();
         }
+        bw.flush();
 
     }
 }
