@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1000/1000.iml" filepath="$PROJECT_DIR$/1000/1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1001/1001.iml" filepath="$PROJECT_DIR$/1001/1001.iml" />
       <module fileurl="file://$PROJECT_DIR$/1008/1008.iml" filepath="$PROJECT_DIR$/1008/1008.iml" />
       <module fileurl="file://$PROJECT_DIR$/10869/10869.iml" filepath="$PROJECT_DIR$/10869/10869.iml" />
       <module fileurl="file://$PROJECT_DIR$/10990/10990.iml" filepath="$PROJECT_DIR$/10990/10990.iml" />
@@ -13,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/10997/10997.iml" filepath="$PROJECT_DIR$/10997/10997.iml" />
       <module fileurl="file://$PROJECT_DIR$/11966/11966.iml" filepath="$PROJECT_DIR$/11966/11966.iml" />
       <module fileurl="file://$PROJECT_DIR$/1264/1264.iml" filepath="$PROJECT_DIR$/1264/1264.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1271/1271.iml" filepath="$PROJECT_DIR$/1271/1271.iml" />
       <module fileurl="file://$PROJECT_DIR$/12756/12756.iml" filepath="$PROJECT_DIR$/12756/12756.iml" />
       <module fileurl="file://$PROJECT_DIR$/13015/13015.iml" filepath="$PROJECT_DIR$/13015/13015.iml" />
       <module fileurl="file://$PROJECT_DIR$/15726/15726.iml" filepath="$PROJECT_DIR$/15726/15726.iml" />
@@ -27,7 +30,6 @@
       <module fileurl="file://$PROJECT_DIR$/2445/2445.iml" filepath="$PROJECT_DIR$/2445/2445.iml" />
       <module fileurl="file://$PROJECT_DIR$/2446/2446.iml" filepath="$PROJECT_DIR$/2446/2446.iml" />
       <module fileurl="file://$PROJECT_DIR$/2447/2447.iml" filepath="$PROJECT_DIR$/2447/2447.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2448/2448.iml" filepath="$PROJECT_DIR$/2448/2448.iml" />
       <module fileurl="file://$PROJECT_DIR$/2522/2522.iml" filepath="$PROJECT_DIR$/2522/2522.iml" />
       <module fileurl="file://$PROJECT_DIR$/2523/2523.iml" filepath="$PROJECT_DIR$/2523/2523.iml" />
       <module fileurl="file://$PROJECT_DIR$/25501/25501.iml" filepath="$PROJECT_DIR$/25501/25501.iml" />
