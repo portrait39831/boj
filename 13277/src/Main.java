@@ -7,6 +7,7 @@ public class Main {
 
         BigInteger a = sc.nextBigInteger();
         BigInteger b = sc.nextBigInteger();
+        
         System.out.println(a.multiply(b));
     }
 }
