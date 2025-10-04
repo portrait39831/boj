@@ -2,6 +2,7 @@ import java.io.*;
 
 /*
 TODO : BigInteger + 빠른 입출력 써도 시간초과 뜸, 나머지(10430번) 문제 참고. 브5 중 제일 어려운 문제 같음
+TODO : 나머지 정리 응용 문제. 앞으로 수학 같으면 노트에 적으면서 풀자!!
 */
 
 public class Main {
